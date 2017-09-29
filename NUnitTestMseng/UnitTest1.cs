@@ -7,6 +7,7 @@ namespace NUnitTestMseng
     public class UnitTest1
     {
         [TestCase(@"a\b")]
+        [TestCase(@"c\d")]
         public void TestMethod1(string a)
         {
             
