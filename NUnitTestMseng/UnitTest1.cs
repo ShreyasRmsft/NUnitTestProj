@@ -12,5 +12,17 @@ namespace NUnitTestMseng
         {
             
         }
+
+        [TestCase(1)]
+        public void Test2(int a)
+        {
+
+        }
+
+        [TestCase(5)]
+        public void Test3(int a)
+        {
+
+        }
     }
 }
