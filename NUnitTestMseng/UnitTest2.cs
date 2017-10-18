@@ -73,5 +73,12 @@ namespace NUnitTestMseng
             // TODO: Add test logic here
             //
         }
+
+        public void TestMethod3()
+        {
+            //
+            // TODO: Add test logic here
+            //
+        }
     }
 }
