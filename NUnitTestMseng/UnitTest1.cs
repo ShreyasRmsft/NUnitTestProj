@@ -24,5 +24,11 @@ namespace NUnitTestMseng
         {
 
         }
+
+        [TestCase(5)]
+        public void Test4(int a)
+        {
+
+        }
     }
 }
